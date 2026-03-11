@@ -42,6 +42,7 @@ B. One automated test I used involved verifying the get_range_for_difficulty fun
 - Did AI help you design or understand any tests? How?
 
 C. Yes, the AI agent helped me better understand how to design and interpret tests by providing example test cases. It demonstrated how to structure tests using pytest, including how to check expected outputs for specific functions in the program. By reviewing these examples, I was able to see how different inputs could be used to verify that the functions behaved correctly under various conditions. The examples also helped me understand how automated tests can confirm that logic, such as difficulty ranges and scoring behavior, works as intended. This guidance improved my understanding of how testing can be used to validate code and detect potential errors.
+
 ---
 
 ## 4. What did you learn about Streamlit and state?
