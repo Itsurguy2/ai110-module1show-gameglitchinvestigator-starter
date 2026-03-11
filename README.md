@@ -38,6 +38,9 @@ It wrote the code, ran away, and now the game is unplayable.
 
 - [ ] [Insert a screenshot of your fixed, winning game here]
 
+      
+<img width="1525" height="1167" alt="Glithy Guesser" src="https://github.com/user-attachments/assets/fdecbf45-18eb-406b-b193-4fdd0b9502f2" />
+
 ## 🚀 Stretch Features
 
 - [ ] [If you choose to complete Challenge 4, insert a screenshot of your Enhanced Game UI here]
