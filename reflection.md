@@ -27,6 +27,7 @@ B. One example of a correct AI suggestion involved removing the line of code tha
 - Give one example of an AI suggestion that was incorrect or misleading (including what the AI suggested and how you verified the result).
 
 C. During the debugging process, I did not encounter an AI suggestion that was completely incorrect, but there were a few issues that the AI initially overlooked. One example was the continued exposure of the secret number in the Developer Debug Info section of the application. Although the AI helped identify several other bugs, this issue required additional observation and discussion before we decided that the secret value should be hidden from the user interface. Revealing the secret number allowed players to see the correct answer and removed the challenge of the game. After removing the line that displayed the secret number and refreshing the application, I confirmed that the answer was no longer visible and that the game behaved as expected.
+
 ---
 
 ## 3. Debugging and testing your fixes
